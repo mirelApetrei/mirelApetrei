@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mirel Apetrei</h1>
 <h3 align="center">A passionate Software Developer from Germany</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1247188/screenshots/15917830/media/41e40e57206bd6903bc863e4333b42c2.jpg?compress=1&resize=1600x1200&vertical=top">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirelapetrei&label=Profile%20views&color=0e75b6&style=flat" alt="mirelapetrei" /> </p>
+<p></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirelapetrei" alt="mirelapetrei" /></a> </p>
 
