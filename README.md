@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://mirel-apetrei-website.netlify.app](https://mirel-apetrei-website.netlify.app)
 
-- 💬 Ask me about **React, Kotlin, Android, and soon IOS too**
+- 💬 Ask me about **React, Kotlin, Android, and iOS too**
 
-- 📫 How to reach me **mirel_apetrei@icloud.com**
+- 📫 How to reach me **apetrei.mmirel@gmail.com**
 
-- 📄 Know about my experiences [https://mirel-apetrei-website.netlify.app](https://mirel-apetrei-website.netlify.app)
+- 📄 Know about my experiences - work in progress - 
 
 - ⚡ Fun fact **I like a lot to explore...**
 
