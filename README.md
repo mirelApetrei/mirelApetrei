@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I've recently finished my learning journey with SYNTAX INSTITUTE, BERLIN - Native Android & IOS development<br><br>👨‍💻 All of my projects are available at -  www.linkedin.com/in/mirel-apetrei-developer<br><br>💬 Ask me about : Native Android, and iOS , also familiar with Flutter and Web development (React)<br><br>📫 How to reach me apetrei.mmirel@gmail.com -  www.linkedin.com/in/mirel-apetrei-developer<br><br>📄 Know about my experiences - A full year with a great team from Syntax Institute, with professional staff and management<br><br>⚡ Fun fact -  I like a lot to explore...
+🌱 I've recently finished my learning journey with SYNTAX INSTITUTE, BERLIN - Native Android & IOS development<br><br>👨‍💻 All of my projects are available at -  [www.linkedin.com/in/mirel-apetrei-developer](https://github.com/mirelApetrei?tab=repositories)<br><br>💬 Ask me about : Native Android, and iOS , also familiar with Flutter and Web development (React)<br><br>📫 How to reach me apetrei.mmirel@gmail.com -  www.linkedin.com/in/mirel-apetrei-developer<br><br>📄 Know about my experiences - A full year with a great team from Syntax Institute, with professional staff and management<br><br>⚡ Fun fact -  I like a lot to explore...
 
 
 ## 🌐 Socials:
